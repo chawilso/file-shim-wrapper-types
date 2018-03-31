@@ -1,0 +1,18 @@
+{
+    "name": "@types/ms-file-module-shim",
+    "publishConfig": {
+      "registry": "https://microsoft.pkgs.visualstudio.com/DefaultCollection/_packaging/MSEG.EAE/npm/registry"
+    },
+    "scripts": {
+	  "build.npm": "gulp build.npm"
+    },
+    "version": "0.0.1",
+	"devDependencies": {
+		"gulp": "3.8.11",
+		"typescript": "2.3.4"
+	},
+    "dependencies": {
+      "roosterjs": "6.1.0"
+    }
+  }
+  
